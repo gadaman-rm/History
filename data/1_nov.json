@@ -1,0 +1,745 @@
+{
+    "metadata": {
+        "title": "رویدادهای تاریخی، مناسبت‌ها، تولدها و درگذشت‌های ۱ نوامبر",
+        "source": "https://en.wikipedia.org/wiki/November_1",
+        "language": "fa",
+        "calendar": "Gregorian",
+        "date": "2026-11-01",
+        "description": "گزیده‌ای ساختاریافته از رویدادها، زادروزها، درگذشت‌ها و مناسبت‌های ۱ نوامبر بر پایه ویکی‌پدیا. برای خوانایی، از میان فهرست بلند تولدها و درگذشت‌ها نمونه‌های شاخص انتخاب شده‌اند.",
+        "editorial_notes": [
+            "ساختار بر اساس چهار بخش اصلی صفحه ویکی‌پدیا: رویدادها، تولدها، درگذشت‌ها، مناسبت‌ها.",
+            "فهرست کامل تولدها و درگذشت‌ها در ویکی‌پدیا بسیار طولانی است؛ در این JSON نمونه‌های شاخص و متنوع آورده شده‌اند.",
+            "تاریخ‌های پیش از ۱۵۸۲ میلادی در ویکی‌پدیا گاه با تقویم ژولیانی ذکر شده‌اند؛ در اینجا فقط سال میلادی حفظ شده است.",
+            "برچسب importance یک ارزیابی تحریریه‌ای است و در منبع اصلی وجود ندارد."
+        ]
+    },
+    "gregorian_date": {
+        "day": 1,
+        "month": 11,
+        "year": 2026
+    },
+    "weekday": "Sunday",
+    "solar_hijri_date": {
+        "day": 10,
+        "month": "Aban",
+        "year": 1405
+    },
+    "events": [
+        {
+            "id": "valentinian-alemanni-rhine",
+            "year": 365,
+            "title": "اطلاع امپراتور والنتینیان اول از عبور آلامانی‌ها از راین",
+            "title_en": "Valentinian I learns the Alemanni have crossed the Rhine",
+            "category": "ancient_history",
+            "region": "world",
+            "description": "امپراتور روم والنتینیان اول آگاه می‌شود که آلامانی‌ها از رود راین گذشته و به گل (Gaul) حمله کرده‌اند.",
+            "importance": "medium"
+        },
+        {
+            "id": "ostarrichi-deed",
+            "year": 996,
+            "title": "صدور سند «اوستاریکی»؛ کهن‌ترین کاربرد شناخته‌شده نام اتریش",
+            "title_en": "Emperor Otto III issues the Ostarrîchi deed",
+            "category": "medieval_history",
+            "region": "world",
+            "description": "امپراتور اتوی سوم سندی برای گوتشالک، اسقف فرایزینگ، صادر کرد که کهن‌ترین سند شناخته‌شده با کاربرد نام Ostarrîchi (اتریش در آلمانی کهن) است.",
+            "importance": "high"
+        },
+        {
+            "id": "philip-ii-crowned",
+            "year": 1179,
+            "title": "تاج‌گذاری فیلیپ دوم به عنوان پادشاه فرانسه",
+            "title_en": "Philip II is crowned King of France",
+            "category": "medieval_history",
+            "region": "world",
+            "description": "فیلیپ دوم (فیلیپ آگوست) در ۱ نوامبر ۱۱۷۹ در رنس به عنوان پادشاه فرانسه تاج‌گذاری کرد.",
+            "importance": "high"
+        },
+        {
+            "id": "julius-ii-elected",
+            "year": 1503,
+            "title": "انتخاب کاردینال جولیانو دلا رووره به پاپی با نام ژولیوس دوم",
+            "title_en": "Giuliano della Rovere elected Pope Julius II",
+            "category": "religious_history",
+            "region": "world",
+            "description": "کاردینال جولیانو دلا رووره به عنوان پاپ انتخاب شد و نام ژولیوس دوم را برگزید؛ از پاپ‌های تأثیرگذار دوره رنسانس.",
+            "importance": "high"
+        },
+        {
+            "id": "sistine-chapel-ceiling",
+            "year": 1512,
+            "title": "نمایش عمومی سقف کلیسای سیستین اثر میکل‌آنژ",
+            "title_en": "Sistine Chapel ceiling exhibited to the public",
+            "category": "art_history",
+            "region": "world",
+            "description": "سقف کلیسای سیستین که میکل‌آنژ آن را نقاشی کرده بود، برای نخستین بار به نمایش عمومی گذاشته شد.",
+            "importance": "very_high"
+        },
+        {
+            "id": "strait-of-magellan",
+            "year": 1520,
+            "title": "کشف و پیمایش تنگه ماژلان",
+            "title_en": "Strait of Magellan first navigated by Ferdinand Magellan",
+            "category": "exploration_history",
+            "region": "world",
+            "description": "فردیناند ماژلان، دریانورد اروپایی، تنگه‌ای در جنوب آمریکای جنوبی را که اقیانوس آرام و اطلس را به هم می‌پیوندد، کشف و پیمایش کرد.",
+            "importance": "very_high"
+        },
+        {
+            "id": "all-saints-flood",
+            "year": 1570,
+            "title": "سیل روز همه قدیسان در سواحل هلند",
+            "title_en": "All Saints' Flood devastates the Dutch coast",
+            "category": "natural_disaster",
+            "region": "world",
+            "description": "سیل روز همه قدیسان (Allerheiligenvloed) سواحل هلند را ویران کرد و تلفات و خسارات گسترده‌ای برجای گذاشت.",
+            "importance": "high"
+        },
+        {
+            "id": "lisbon-earthquake",
+            "year": 1755,
+            "title": "زمین‌لرزه و سونامی ویرانگر لیسبون",
+            "title_en": "Lisbon earthquake and tsunami",
+            "category": "natural_disaster",
+            "region": "world",
+            "description": "لیسبون پرتغال بر اثر زمین‌لرزه و سونامی عظیم تقریباً به‌طور کامل ویران شد؛ برآورد تلفات بین ۴۰ تا ۶۰ هزار نفر است.",
+            "importance": "very_high"
+        },
+        {
+            "id": "stamp-act",
+            "year": 1765,
+            "title": "تصویب قانون تمبر توسط پارلمان بریتانیا",
+            "title_en": "British Parliament enacts the Stamp Act",
+            "category": "political_history",
+            "region": "world",
+            "description": "پارلمان بریتانیا قانون تمبر را برای مستعمرات سیزده‌گانه تصویب کرد تا هزینه عملیات نظامی بریتانیا در آمریکای شمالی تأمین شود؛ از جرقه‌های انقلاب آمریکا.",
+            "importance": "very_high"
+        },
+        {
+            "id": "burke-reflections",
+            "year": 1790,
+            "title": "انتشار «تأملاتی در انقلاب فرانسه» اثر ادموند برک",
+            "title_en": "Edmund Burke publishes Reflections on the Revolution in France",
+            "category": "political_thought",
+            "region": "world",
+            "description": "ادموند برک کتاب «تأملاتی در انقلاب فرانسه» را منتشر کرد و پیش‌بینی کرد که انقلاب فرانسه به فاجعه می‌انجامد.",
+            "importance": "high"
+        },
+        {
+            "id": "john-adams-white-house",
+            "year": 1800,
+            "title": "جان آدامز نخستین رئیس‌جمهور ساکن کاخ سفید",
+            "title_en": "John Adams becomes first President to live in the Executive Mansion",
+            "category": "political_history",
+            "region": "world",
+            "description": "جان آدامز نخستین رئیس‌جمهور ایالات متحده بود که در عمارت اجرایی (بعدها کاخ سفید) ساکن شد.",
+            "importance": "medium"
+        },
+        {
+            "id": "congress-of-vienna",
+            "year": 1814,
+            "title": "آغاز کنگره وین برای بازترسیم نقشه سیاسی اروپا",
+            "title_en": "Congress of Vienna opens",
+            "category": "political_history",
+            "region": "world",
+            "description": "کنگره وین پس از شکست فرانسه در جنگ‌های ناپلئونی آغاز شد تا نقشه سیاسی اروپا را بازترسیم کند.",
+            "importance": "very_high"
+        },
+        {
+            "id": "boston-female-medical-school",
+            "year": 1848,
+            "title": "افتتاح نخستین دانشکده پزشکی زنان در بوستون",
+            "title_en": "Boston Female Medical School opens",
+            "category": "social_history",
+            "region": "world",
+            "description": "نخستین دانشکده پزشکی برای زنان در بوستون، ماساچوست، افتتاح شد؛ بعدها با دانشکده پزشکی دانشگاه بوستون ادغام شد.",
+            "importance": "high"
+        },
+        {
+            "id": "mcclellan-union-army",
+            "year": 1861,
+            "title": "انتصاب جورج مک‌کللن به فرماندهی ارتش اتحادیه",
+            "title_en": "Lincoln appoints George B. McClellan as commander of the Union Army",
+            "category": "military_history",
+            "region": "world",
+            "description": "آبراهام لینکلن در جریان جنگ داخلی آمریکا، جورج بی. مک‌کللن را جایگزین ژنرال وینفیلد اسکات به فرماندهی ارتش اتحادیه کرد.",
+            "importance": "high"
+        },
+        {
+            "id": "weather-bureau-first-forecast",
+            "year": 1870,
+            "title": "نخستین پیش‌بینی رسمی هواشناسی در آمریکا",
+            "title_en": "US Weather Bureau makes its first official meteorological forecast",
+            "category": "science_history",
+            "region": "world",
+            "description": "اداره هواشناسی ایالات متحده (بعدها سرویس ملی هواشناسی) نخستین پیش‌بینی رسمی هواشناسی خود را منتشر کرد.",
+            "importance": "medium"
+        },
+        {
+            "id": "nicholas-ii-tsar",
+            "year": 1894,
+            "title": "تزار شدن نیکلای دوم، آخرین تزار روسیه",
+            "title_en": "Nicholas II becomes Tsar of Russia",
+            "category": "political_history",
+            "region": "world",
+            "description": "نیکلای دوم پس از مرگ پدرش الکساندر سوم، تزار روسیه شد؛ آخرین تزار این امپراتوری.",
+            "importance": "very_high"
+        },
+        {
+            "id": "juventus-founded",
+            "year": 1897,
+            "title": "تأسیس باشگاه فوتبال یوونتوس",
+            "title_en": "Juventus founded",
+            "category": "sports_history",
+            "region": "world",
+            "description": "باشگاه ورزشی ایتالیایی یوونتوس توسط گروهی از دانش‌آموزان دبیرستان کلاسیک ماسیمو دآزگلیو در تورین تأسیس شد.",
+            "importance": "high"
+        },
+        {
+            "id": "first-aerial-bombing",
+            "year": 1911,
+            "title": "نخستین مأموریت بمباران هوایی رزمی جهان در لیبی",
+            "title_en": "World's first combat aerial bombing mission",
+            "category": "military_history",
+            "region": "world",
+            "description": "در جریان جنگ ایتالیا و عثمانی در لیبی، ستوان دوم جولیو گاووتی ایتالیایی چند بمب کوچک را از هواپیما فروانداخت.",
+            "importance": "high"
+        },
+        {
+            "id": "battle-of-coronel",
+            "year": 1914,
+            "title": "نبرد کورونل؛ نخستین شکست دریایی بریتانیا در جنگ جهانی اول",
+            "title_en": "Battle of Coronel",
+            "category": "military_history",
+            "region": "world",
+            "description": "نبرد کورونل در سواحل غربی شیلی در اقیانوس آرام رخ داد و به غرق شدن اچ‌ام‌اس گود هوپ و اچ‌ام‌اس مونموث انجامید.",
+            "importance": "high"
+        },
+        {
+            "id": "malbone-street-wreck",
+            "year": 1918,
+            "title": "فاجعه قطار شهری خیابان مالبون در بروکلین",
+            "title_en": "Malbone Street wreck",
+            "category": "disaster",
+            "region": "world",
+            "description": "بدترین حادثه حمل‌ونقل سریع در تاریخ آمریکا در تقاطع خیابان مالبون و خیابان فلت‌بوش بروکلین رخ داد و دست‌کم ۱۰۲ نفر کشته شدند.",
+            "importance": "high"
+        },
+        {
+            "id": "ottoman-sultanate-abolished",
+            "year": 1922,
+            "title": "لغو سلطنت عثمانی و کناره‌گیری محمد ششم",
+            "title_en": "Abolition of the Ottoman sultanate",
+            "category": "political_history",
+            "region": "world",
+            "description": "سلطنت عثمانی لغو شد و محمد ششم، آخرین سلطان امپراتوری عثمانی، از قدرت کناره گرفت.",
+            "importance": "very_high"
+        },
+        {
+            "id": "turkish-alphabet-law",
+            "year": 1928,
+            "title": "تصویب قانون الفبای ترکی و جایگزینی الفبای لاتین با عربی",
+            "title_en": "Turkish Alphabet Law",
+            "category": "cultural_history",
+            "region": "world",
+            "description": "قانون پذیرش و اجرای الفبای ترکی، الفبای عربی را با الفبای لاتین در ترکیه جایگزین کرد.",
+            "importance": "very_high"
+        },
+        {
+            "id": "ivy-mike",
+            "year": 1952,
+            "title": "آزمایش موفق Ivy Mike؛ نخستین دستگاه گرماهسته‌ای آمریکا",
+            "title_en": "Ivy Mike thermonuclear test",
+            "category": "science_history",
+            "region": "world",
+            "description": "ایالات متحده در آبسنگ انیوتاک نخستین دستگاه گرماهسته‌ای (بمب هیدروژنی) خود را با موفقیت منفجر کرد؛ قدرت انفجار حدود ده مگاتن TNT بود.",
+            "importance": "very_high"
+        },
+        {
+            "id": "algerian-war-first-shots",
+            "year": 1954,
+            "title": "نخستین شلیک‌های جنگ استقلال الجزایر",
+            "title_en": "Front de Libération Nationale fires first shots of the Algerian War",
+            "category": "political_history",
+            "region": "world",
+            "description": "جبهه آزادی‌بخش ملی الجزایر نخستین شلیک‌های جنگ استقلال الجزایر را انجام داد.",
+            "importance": "very_high"
+        },
+        {
+            "id": "hungarian-revolution-neutrality",
+            "year": 1956,
+            "title": "اعلام بی‌طرفی مجارستان و خروج از پیمان ورشو",
+            "title_en": "Imre Nagy announces Hungary's neutrality",
+            "category": "political_history",
+            "region": "world",
+            "description": "در جریان انقلاب مجارستان، ایمره ناگی بی‌طرفی مجارستان و خروج از پیمان ورشو را اعلام کرد؛ نیروهای شوروی برخلاف تضمین‌ها دوباره وارد مجارستان شدند.",
+            "importance": "very_high"
+        },
+        {
+            "id": "mackinac-bridge-opens",
+            "year": 1957,
+            "title": "افتتاح پل مکیناک",
+            "title_en": "Mackinac Bridge opens",
+            "category": "engineering_history",
+            "region": "world",
+            "description": "پل مکیناک، در آن زمان طولانی‌ترین پل معلق جهان بین لنگرگاه‌ها، برای ترافیک باز شد و دو شبه‌جزیره میشیگان را به هم متصل کرد.",
+            "importance": "medium"
+        },
+        {
+            "id": "arecibo-observatory",
+            "year": 1963,
+            "title": "افتتاح رصدخانه آرسیبو",
+            "title_en": "Arecibo Observatory opens",
+            "category": "science_history",
+            "region": "world",
+            "description": "رصدخانه آرسیبو در پورتوریکو با بزرگ‌ترین تلسکوپ رادیویی ساخته‌شده تا آن زمان رسماً افتتاح شد.",
+            "importance": "high"
+        },
+        {
+            "id": "mpaa-ratings",
+            "year": 1968,
+            "title": "معرفی نظام درجه‌بندی فیلم MPAA",
+            "title_en": "MPAA film rating system introduced",
+            "category": "cultural_history",
+            "region": "world",
+            "description": "نظام درجه‌بندی فیلم انجمن تصاویر متحرک آمریکا به‌طور رسمی معرفی شد؛ با درجه‌های G، M، R و X.",
+            "importance": "high"
+        },
+        {
+            "id": "chechnya-sovereignty",
+            "year": 1991,
+            "title": "اعلام حاکمیت جمهوری چچن ایچکریا",
+            "title_en": "Dzhokhar Dudayev declares sovereignty of Chechnya",
+            "category": "political_history",
+            "region": "world",
+            "description": "جوهر دودایف، رئیس‌جمهور جمهوری چچن، حاکمیت جمهوری چچن ایچکریا را از فدراسیون روسیه اعلام کرد.",
+            "importance": "high"
+        },
+        {
+            "id": "maastricht-treaty",
+            "year": 1993,
+            "title": "لازم‌الاجرا شدن پیمان ماستریخت و تأسیس رسمی اتحادیه اروپا",
+            "title_en": "Maastricht Treaty takes effect",
+            "category": "political_history",
+            "region": "world",
+            "description": "پیمان ماستریخت لازم‌الاجرا شد و اتحادیه اروپا به‌طور رسمی شکل گرفت.",
+            "importance": "very_high"
+        },
+        {
+            "id": "antigua-barbuda-independence",
+            "year": 1981,
+            "title": "استقلال آنتیگوا و باربودا از بریتانیا",
+            "title_en": "Antigua and Barbuda gains independence",
+            "category": "political_history",
+            "region": "world",
+            "description": "آنتیگوا و باربودا از بریتانیا استقلال یافت.",
+            "importance": "high"
+        },
+        {
+            "id": "serbia-montenegro-un",
+            "year": 2000,
+            "title": "پیوستن صربستان و مونته‌نگرو به سازمان ملل متحد",
+            "title_en": "Serbia and Montenegro joins the UN",
+            "category": "political_history",
+            "region": "world",
+            "description": "صربستان و مونته‌نگرو به عضویت سازمان ملل متحد درآمد.",
+            "importance": "medium"
+        },
+        {
+            "id": "draghi-ecb",
+            "year": 2011,
+            "title": "ماریو دراگی رئیس بانک مرکزی اروپا شد",
+            "title_en": "Mario Draghi becomes ECB president",
+            "category": "economic_history",
+            "region": "world",
+            "description": "ماریو دراگی جانشین ژان-کلود تریشه شد و سومین رئیس بانک مرکزی اروپا شد.",
+            "importance": "medium"
+        },
+        {
+            "id": "novi-sad-canopy-collapse",
+            "year": 2024,
+            "title": "فروریختن سایه‌بان بتنی در ایستگاه راه‌آهن نوی ساد",
+            "title_en": "Novi Sad railway station canopy collapse",
+            "category": "disaster",
+            "region": "world",
+            "description": "فروریختن سایه‌بان بتنی در ایستگاه راه‌آهن نوی ساد صربستان به کشته شدن ۱۶ نفر و زخمی شدن ۳ نفر انجامید.",
+            "importance": "high"
+        }
+    ],
+    "births": [
+        {
+            "id": "louis-the-stammerer-birth",
+            "year": 846,
+            "title": "زادروز لویی دوم (لویی لال)، پادشاه فرانک‌ها",
+            "title_en": "Birth of Louis the Stammerer",
+            "category": "birth",
+            "region": "world",
+            "description": "لویی لال، پادشاه فرانک غربی، متولد شد. (درگذشت ۸۷۹)",
+            "importance": "medium"
+        },
+        {
+            "id": "antonio-canova-birth",
+            "year": 1757,
+            "title": "زادروز آنتونیو کانوا، مجسمه‌ساز ایتالیایی",
+            "title_en": "Birth of Antonio Canova",
+            "category": "birth",
+            "region": "world",
+            "description": "آنتونیو کانوا، مجسمه‌ساز و آموزگار برجسته ایتالیایی، متولد شد. (درگذشت ۱۸۲۲)",
+            "importance": "high"
+        },
+        {
+            "id": "spencer-perceval-birth",
+            "year": 1762,
+            "title": "زادروز اسپنسر پرسیوال، نخست‌وزیر بریتانیا",
+            "title_en": "Birth of Spencer Perceval",
+            "category": "birth",
+            "region": "world",
+            "description": "اسپنسر پرسیوال، حقوقدان و سیاستمدار بریتانیایی و نخست‌وزیر بریتانیا، متولد شد. (درگذشت ۱۸۱۲)",
+            "importance": "medium"
+        },
+        {
+            "id": "alfred-wegener-birth",
+            "year": 1880,
+            "title": "زادروز آلفرد وگنر، هواشناس و زمین‌فیزیک‌دان آلمانی",
+            "title_en": "Birth of Alfred Wegener",
+            "category": "birth",
+            "region": "world",
+            "description": "آلفرد وگنر، هواشناس و زمین‌فیزیک‌دان آلمانی و مطرح‌کننده نظریه رانش قاره‌ای، متولد شد. (درگذشت ۱۹۳۰)",
+            "importance": "very_high"
+        },
+        {
+            "id": "edward-said-birth",
+            "year": 1935,
+            "title": "زادروز ادوارد سعید، نظریه‌پرداز و نویسنده فلسطینی-آمریکایی",
+            "title_en": "Birth of Edward Said",
+            "category": "birth",
+            "region": "world",
+            "description": "ادوارد سعید، نظریه‌پرداز ادبی، نویسنده و استاد دانشگاه فلسطینی-آمریکایی و نویسنده کتاب «شرق‌شناسی»، متولد شد. (درگذشت ۲۰۰۳)",
+            "importance": "very_high"
+        },
+        {
+            "id": "suleyman-demirel-birth",
+            "year": 1924,
+            "title": "زادروز سلیمان دمیرل، نهمین رئیس‌جمهور ترکیه",
+            "title_en": "Birth of Süleyman Demirel",
+            "category": "birth",
+            "region": "world",
+            "description": "سلیمان دمیرل، مهندس و سیاستمدار ترک و نهمین رئیس‌جمهور ترکیه، متولد شد. (درگذشت ۲۰۱۵)",
+            "importance": "high"
+        },
+        {
+            "id": "tim-cook-birth",
+            "year": 1960,
+            "title": "زادروز تیم کوک، مدیرعامل اپل",
+            "title_en": "Birth of Tim Cook",
+            "category": "birth",
+            "region": "world",
+            "description": "تیم کوک، مدیر اجرایی و مهندس آمریکایی و مدیرعامل کنونی شرکت اپل، متولد شد.",
+            "importance": "high"
+        },
+        {
+            "id": "anthony-kiedis-birth",
+            "year": 1962,
+            "title": "زادروز آنتونی کیدیس، خواننده گروه رد هات چیلی پپرز",
+            "title_en": "Birth of Anthony Kiedis",
+            "category": "birth",
+            "region": "world",
+            "description": "آنتونی کیدیس، خواننده و ترانه‌سرای آمریکایی و خواننده اصلی گروه رد هات چیلی پپرز، متولد شد.",
+            "importance": "medium"
+        },
+        {
+            "id": "aishwarya-rai-birth",
+            "year": 1973,
+            "title": "زادروز آیشواریا رای، مدل و بازیگر هندی",
+            "title_en": "Birth of Aishwarya Rai",
+            "category": "birth",
+            "region": "world",
+            "description": "آیشواریا رای، مدل و بازیگر هندی و برنده عنوان دوشیزه جهان ۱۹۹۴، متولد شد.",
+            "importance": "medium"
+        },
+        {
+            "id": "toni-collette-birth",
+            "year": 1972,
+            "title": "زادروز تونی کولت، بازیگر استرالیایی",
+            "title_en": "Birth of Toni Collette",
+            "category": "birth",
+            "region": "world",
+            "description": "تونی کولت، بازیگر استرالیایی، متولد شد.",
+            "importance": "medium"
+        },
+        {
+            "id": "lil-peep-birth",
+            "year": 1996,
+            "title": "زادروز لیل پیپ، رپر آمریکایی",
+            "title_en": "Birth of Lil Peep",
+            "category": "birth",
+            "region": "world",
+            "description": "لیل پیپ، رپر آمریکایی، متولد شد. (درگذشت ۲۰۱۷)",
+            "importance": "medium"
+        }
+    ],
+    "deaths": [
+        {
+            "id": "alexander-iii-russia-death",
+            "year": 1894,
+            "title": "درگذشت الکساندر سوم، تزار روسیه",
+            "title_en": "Death of Alexander III of Russia",
+            "category": "death",
+            "region": "world",
+            "description": "الکساندر سوم، تزار روسیه، درگذشت. (متولد ۱۸۴۵)",
+            "importance": "high"
+        },
+        {
+            "id": "theodor-mommsen-death",
+            "year": 1903,
+            "title": "درگذشت تئودور مومسن، برنده نوبل ادبیات",
+            "title_en": "Death of Theodor Mommsen",
+            "category": "death",
+            "region": "world",
+            "description": "تئودور مومسن، باستان‌شناس، روزنامه‌نگار و سیاستمدار آلمانی و برنده جایزه نوبل ادبیات، درگذشت. (متولد ۱۸۱۷)",
+            "importance": "high"
+        },
+        {
+            "id": "dale-carnegie-death",
+            "year": 1955,
+            "title": "درگذشت دیل کارنگی، نویسنده و آموزگار آمریکایی",
+            "title_en": "Death of Dale Carnegie",
+            "category": "death",
+            "region": "world",
+            "description": "دیل کارنگی، نویسنده و آموزگار آمریکایی و نویسنده کتاب «چگونه دوستان به دست آوریم»، درگذشت. (متولد ۱۸۸۸)",
+            "importance": "high"
+        },
+        {
+            "id": "ezra-pound-death",
+            "year": 1972,
+            "title": "درگذشت ازرا پاوند، شاعر و منتقد آمریکایی",
+            "title_en": "Death of Ezra Pound",
+            "category": "death",
+            "region": "world",
+            "description": "ازرا پاوند، شاعر و منتقد آمریکایی و از چهره‌های تأثیرگذار شعر مدرن، درگذشت. (متولد ۱۸۸۵)",
+            "importance": "high"
+        },
+        {
+            "id": "walter-payton-death",
+            "year": 1999,
+            "title": "درگذشت والتر پیتون، بازیکن فوتبال آمریکایی",
+            "title_en": "Death of Walter Payton",
+            "category": "death",
+            "region": "world",
+            "description": "والتر پیتون، بازیکن مشهور فوتبال آمریکایی تیم شیکاگو بیرز، درگذشت. (متولد ۱۹۵۴)",
+            "importance": "high"
+        },
+        {
+            "id": "william-styron-death",
+            "year": 2006,
+            "title": "درگذشت ویلیام استایرن، رمان‌نویس آمریکایی",
+            "title_en": "Death of William Styron",
+            "category": "death",
+            "region": "world",
+            "description": "ویلیام استایرن، رمان‌نویس و مقاله‌نویس آمریکایی و نویسنده «انتخاب سوفی»، درگذشت. (متولد ۱۹۲۵)",
+            "importance": "high"
+        },
+        {
+            "id": "paul-tibbets-death",
+            "year": 2007,
+            "title": "درگذشت پاول تیبتس، خلبان بمب‌افکن انولا گی",
+            "title_en": "Death of Paul Tibbets",
+            "category": "death",
+            "region": "world",
+            "description": "پاول تیبتس، ژنرال و خلبان آمریکایی بمب‌افکن انولا گی در حمله اتمی هیروشیما، درگذشت. (متولد ۱۹۱۵)",
+            "importance": "high"
+        },
+        {
+            "id": "gunter-schabowski-death",
+            "year": 2015,
+            "title": "درگذشت گونتر شابوفسکی، سخنگوی آلمان شرقی",
+            "title_en": "Death of Günter Schabowski",
+            "category": "death",
+            "region": "world",
+            "description": "گونتر شابوفسکی، روزنامه‌نگار و سیاستمدار آلمان شرقی که باز شدن دیوار برلین را اعلام کرد، درگذشت. (متولد ۱۹۲۹)",
+            "importance": "high"
+        },
+        {
+            "id": "fred-thompson-death",
+            "year": 2015,
+            "title": "درگذشت فرد تامپسون، بازیگر و سناتور آمریکایی",
+            "title_en": "Death of Fred Thompson",
+            "category": "death",
+            "region": "world",
+            "description": "فرد تامپسون، بازیگر، حقوقدان و سیاستمدار آمریکایی، درگذشت. (متولد ۱۹۴۲)",
+            "importance": "medium"
+        },
+        {
+            "id": "takeoff-death",
+            "year": 2022,
+            "title": "درگذشت تیک‌آف، عضو گروه هیپ‌هاپ میگوس",
+            "title_en": "Death of Takeoff",
+            "category": "death",
+            "region": "world",
+            "description": "تیک‌آف، عضو گروه هیپ‌هاپ آمریکایی میگوس، درگذشت. (متولد ۱۹۹۴)",
+            "importance": "medium"
+        }
+    ],
+    "observances": [
+        {
+            "id": "all-saints-day-observance",
+            "title": "روز همه قدیسان",
+            "title_en": "All Saints' Day",
+            "category": "religious_observance",
+            "region": "world",
+            "description": "روز همه قدیسان، در برخی مناطق روز مقدس اجباری و در بسیاری از کشورهای کاتولیک تعطیل ملی است.",
+            "importance": "high",
+            "official_status": "مناسبت مذهبی؛ در برخی کشورها تعطیل رسمی."
+        },
+        {
+            "id": "day-of-the-innocents",
+            "title": "روز معصومان؛ نخستین روز جشن روز مردگان",
+            "title_en": "Day of the Innocents (first day of Day of the Dead)",
+            "category": "cultural_observance",
+            "region": "world",
+            "description": "نخستین روز جشن روز مردگان (El Día de los Muertos) در مکزیک و هائیتی.",
+            "importance": "high",
+            "official_status": "مناسبت فرهنگی."
+        },
+        {
+            "id": "algeria-revolution-anniversary",
+            "title": "سالگرد انقلاب الجزایر",
+            "title_en": "Anniversary of the Revolution (Algeria)",
+            "category": "national_observance",
+            "region": "world",
+            "description": "سالگرد آغاز انقلاب الجزایر در ۱ نوامبر ۱۹۵۴.",
+            "importance": "high",
+            "official_status": "مناسبت ملی در الجزایر."
+        },
+        {
+            "id": "chavang-kut",
+            "title": "چاوانگ کوت",
+            "title_en": "Chavang Kut",
+            "category": "cultural_observance",
+            "region": "world",
+            "description": "جشن برداشت محصول مردم میزو در شمال شرق هند، بنگلادش و برمه.",
+            "importance": "medium",
+            "official_status": "مناسبت فرهنگی."
+        },
+        {
+            "id": "chhattisgarh-rajyotsava",
+            "title": "روز تأسیس ایالت چتیسگر",
+            "title_en": "Chhattisgarh Rajyotsava",
+            "category": "regional_observance",
+            "region": "world",
+            "description": "روز تأسیس ایالت چتیسگر در هند.",
+            "importance": "medium",
+            "official_status": "مناسبت ایالتی."
+        },
+        {
+            "id": "karnataka-rajyotsava",
+            "title": "روز تأسیس ایالت کارناتاکا",
+            "title_en": "Karnataka Rajyotsava",
+            "category": "regional_observance",
+            "region": "world",
+            "description": "روز تأسیس ایالت کارناتاکا در هند.",
+            "importance": "medium",
+            "official_status": "مناسبت ایالتی."
+        },
+        {
+            "id": "kerala-day",
+            "title": "روز کرالا",
+            "title_en": "Kerala Day",
+            "category": "regional_observance",
+            "region": "world",
+            "description": "روز تأسیس ایالت کرالا در هند.",
+            "importance": "medium",
+            "official_status": "مناسبت ایالتی."
+        },
+        {
+            "id": "liberty-day-usvi",
+            "title": "روز آزادی (جزایر ویرجین آمریکا)",
+            "title_en": "Liberty Day (United States Virgin Islands)",
+            "category": "regional_observance",
+            "region": "world",
+            "description": "روز آزادی در جزایر ویرجین ایالات متحده.",
+            "importance": "low",
+            "official_status": "مناسبت محلی."
+        },
+        {
+            "id": "lennox-gastaut-awareness",
+            "title": "روز جهانی آگاهی از سندرم لنوکس-گاستو",
+            "title_en": "International Lennox-Gastaut Syndrome Awareness Day",
+            "category": "international_observance",
+            "region": "world",
+            "description": "روز آگاهی‌بخشی درباره سندرم لنوکس-گاستو، نوعی صرع شدید.",
+            "importance": "medium",
+            "official_status": "مناسبت بین‌المللی غیردولتی."
+        },
+        {
+            "id": "national-brush-day",
+            "title": "روز ملی مسواک (آمریکا)",
+            "title_en": "National Brush Day (United States)",
+            "category": "national_observance",
+            "region": "world",
+            "description": "روز ملی مسواک در ایالات متحده.",
+            "importance": "low",
+            "official_status": "مناسبت ملی غیررسمی."
+        },
+        {
+            "id": "self-defense-forces-day",
+            "title": "روز نیروهای دفاع‌ازخود ژاپن",
+            "title_en": "Self-Defense Forces Commemoration Day (Japan)",
+            "category": "national_observance",
+            "region": "world",
+            "description": "روز بزرگداشت نیروهای دفاع‌ازخود ژاپن.",
+            "importance": "medium",
+            "official_status": "مناسبت ملی در ژاپن."
+        },
+        {
+            "id": "coronation-fifth-druk-gyalpo",
+            "title": "سالگرد تاج‌گذاری پنجمین دروک گیالپو (بوتان)",
+            "title_en": "Coronation of the fifth Druk Gyalpo (Bhutan)",
+            "category": "national_observance",
+            "region": "world",
+            "description": "سالگرد تاج‌گذاری پنجمین پادشاه بوتان.",
+            "importance": "medium",
+            "official_status": "مناسبت ملی در بوتان."
+        },
+        {
+            "id": "antigua-independence-day",
+            "title": "روز استقلال آنتیگوا و باربودا",
+            "title_en": "Independence Day (Antigua and Barbuda)",
+            "category": "national_observance",
+            "region": "world",
+            "description": "سالگرد استقلال آنتیگوا و باربودا از بریتانیا در ۱۹۸۱.",
+            "importance": "high",
+            "official_status": "تعطیل رسمی."
+        },
+        {
+            "id": "world-vegan-day-observance",
+            "title": "روز جهانی وگان",
+            "title_en": "World Vegan Day",
+            "category": "international_observance",
+            "region": "world",
+            "description": "روز جهانی وگان برای آگاهی‌بخشی درباره سبک زندگی وگان و حقوق حیوانات.",
+            "importance": "medium",
+            "official_status": "مناسبت بین‌المللی غیردولتی."
+        },
+        {
+            "id": "samhain-beltane",
+            "title": "ساوین (نیم‌کره شمالی) و بلتین (نیم‌کره جنوبی)",
+            "title_en": "Samhain / Beltane (Neopagan Wheel of the Year)",
+            "category": "cultural_observance",
+            "region": "world",
+            "description": "آغاز جشن‌های ساوین در نیم‌کره شمالی و بلتین در نیم‌کره جنوبی در غروب ۳۱ اکتبر.",
+            "importance": "medium",
+            "official_status": "مناسبت فرهنگی و نئوپاگان."
+        },
+        {
+            "id": "calan-gaef",
+            "title": "کالان گائف (ولز)",
+            "title_en": "Calan Gaeaf (Wales)",
+            "category": "cultural_observance",
+            "region": "world",
+            "description": "آغاز جشن‌های زمستانی کالان گائف در ولز از غروب ۳۱ اکتبر.",
+            "importance": "low",
+            "official_status": "مناسبت فرهنگی محلی."
+        }
+    ]
+}
