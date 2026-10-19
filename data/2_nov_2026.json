@@ -1,0 +1,855 @@
+{
+    "metadata": {
+        "title": "رویدادهای تاریخی، مناسبت‌ها، تولدها و درگذشت‌های ۲ نوامبر",
+        "source": "https://en.wikipedia.org/wiki/November_2",
+        "language": "fa",
+        "calendar": "Gregorian",
+        "date": "2026-11-02",
+        "description": "گزیده‌ای ساختاریافته از رویدادها، زادروزها، درگذشت‌ها و مناسبت‌های ۲ نوامبر بر پایه ویکی‌پدیا. برای خوانایی، از میان فهرست بلند تولدها و درگذشت‌ها نمونه‌های شاخص انتخاب شده‌اند.",
+        "editorial_notes": [
+            "ساختار بر اساس چهار بخش اصلی صفحه ویکی‌پدیا: رویدادها، تولدها، درگذشت‌ها، مناسبت‌ها.",
+            "فهرست کامل تولدها و درگذشت‌ها در ویکی‌پدیا بسیار طولانی است؛ در این JSON نمونه‌های شاخص و متنوع آورده شده‌اند.",
+            "در صفحه ویکی‌پدیای ۲ نوامبر، بخش «تعطیلات و مناسبت‌ها» خالی است؛ بخش observances بر پایه منابع تکمیلی ویکی‌پدیا تکمیل شده است.",
+            "برچسب importance یک ارزیابی تحریریه‌ای است و در منبع اصلی وجود ندارد."
+        ]
+    },
+    "gregorian_date": {
+        "day": 2,
+        "month": 11,
+        "year": 2026
+    },
+    "weekday": "Monday",
+    "solar_hijri_date": {
+        "day": 11,
+        "month": "Aban",
+        "year": 1405
+    },
+    "events": [
+        {
+            "id": "battle-of-lule-burgas",
+            "year": 1912,
+            "title": "پیروزی بلغارستان بر امپراتوری عثمانی در نبرد لوله‌بورگاس",
+            "title_en": "Battle of Lule Burgas",
+            "category": "military_history",
+            "region": "world",
+            "description": "بلغارستان در خونین‌ترین نبرد جنگ اول بالکان بر امپراتوری عثمانی پیروز شد؛ این پیروزی راه را برای پیشروی به سوی قسطنطنیه گشود.",
+            "importance": "high"
+        },
+        {
+            "id": "russia-declares-war-ottoman",
+            "year": 1914,
+            "title": "اعلام جنگ روسیه بر امپراتوری عثمانی",
+            "title_en": "Russian Empire declares war on the Ottoman Empire",
+            "category": "military_history",
+            "region": "world",
+            "description": "در جریان جنگ جهانی اول، امپراتوری روسیه به امپراتوری عثمانی اعلام جنگ کرد و به دنبال آن تنگه داردانل بسته شد.",
+            "importance": "very_high"
+        },
+        {
+            "id": "balfour-declaration",
+            "year": 1917,
+            "title": "صدور اعلامیه بالفور",
+            "title_en": "Balfour Declaration",
+            "category": "political_history",
+            "region": "world",
+            "description": "بریتانیا در نامه‌ای از ایجاد «خانه ملی برای مردم یهود» در فلسطین حمایت کرد، با تصریح اینکه نباید به حقوق مدنی و مذهبی جوامع غیریهودی ساکن فلسطین لطمه وارد شود.",
+            "importance": "very_high"
+        },
+        {
+            "id": "petrograd-military-revolutionary-committee",
+            "year": 1917,
+            "title": "نخستین جلسه کمیته انقلابی نظامی شورای پتروگراد",
+            "title_en": "Military Revolutionary Committee of the Petrograd Soviet holds first meeting",
+            "category": "political_history",
+            "region": "world",
+            "description": "کمیته انقلابی نظامی شورای پتروگراد که مسئولیت آماده‌سازی و اجرای انقلاب روسیه را بر عهده داشت، نخستین جلسه خود را برگزار کرد.",
+            "importance": "very_high"
+        },
+        {
+            "id": "ocoee-massacre",
+            "year": 1920,
+            "title": "آغاز کشتار اوکوئی در فلوریدا",
+            "title_en": "Ocoee massacre",
+            "category": "social_history",
+            "region": "world",
+            "description": "کشتار اوکوئی در شهرستان اورنج، فلوریدا، در روز انتخابات ریاست‌جمهوری ۱۹۲۰ آمریکا آغاز شد.",
+            "importance": "high"
+        },
+        {
+            "id": "kdka-first-broadcast",
+            "year": 1920,
+            "title": "آغاز پخش رادیو KDKA به عنوان نخستین ایستگاه رادیویی تجاری",
+            "title_en": "KDKA Pittsburgh starts broadcasting",
+            "category": "media_history",
+            "region": "world",
+            "description": "ایستگاه KDKA در پیتسبورگ آمریکا پخش خود را به عنوان نخستین ایستگاه رادیویی تجاری آغاز کرد؛ نخستین برنامه نتیجه انتخابات ریاست‌جمهوری ۱۹۲۰ بود.",
+            "importance": "very_high"
+        },
+        {
+            "id": "bbc-tv-service",
+            "year": 1936,
+            "title": "آغاز سرویس تلویزیونی بی‌بی‌سی",
+            "title_en": "BBC Television Service begins",
+            "category": "media_history",
+            "region": "world",
+            "description": "بی‌بی‌سی نخستین سرویس منظم و «کیفیت بالا»ی تلویزیونی جهان را آغاز کرد؛ این شبکه در ۱۹۶۴ به BBC1 تغییر نام یافت و همچنان فعال است.",
+            "importance": "very_high"
+        },
+        {
+            "id": "battle-of-elaia-kalamas",
+            "year": 1940,
+            "title": "نخستین روز نبرد الایا-کالاماس",
+            "title_en": "First day of Battle of Elaia–Kalamas",
+            "category": "military_history",
+            "region": "world",
+            "description": "در جنگ جهانی دوم، نخستین روز نبرد میان یونان و ایتالیا در الایا-کالاماس آغاز شد.",
+            "importance": "high"
+        },
+        {
+            "id": "spruce-goose-flight",
+            "year": 1947,
+            "title": "نخستین و تنها پرواز هواپیمای هیوز اچ-۴ هرکولس (اسپروس گوس)",
+            "title_en": "Maiden flight of Hughes H-4 Hercules",
+            "category": "aviation_history",
+            "region": "world",
+            "description": "هاوارد هیوز نخستین و تنها پرواز هواپیمای غول‌پیکر اسپروس گوس را انجام داد؛ بزرگ‌ترین هواپیمای بال‌ثابت ساخته‌شده تا سال ۲۰۱۷.",
+            "importance": "high"
+        },
+        {
+            "id": "dutch-indonesian-round-table",
+            "year": 1949,
+            "title": "پایان کنفرانس میز گرد هلند و اندونزی",
+            "title_en": "Dutch–Indonesian Round Table Conference ends",
+            "category": "political_history",
+            "region": "world",
+            "description": "کنفرانس میز گرد هلند و اندونزی با موافقت هلند برای انتقال حاکمیت هند شرقی هلند به ایالات متحده اندونزی پایان یافت.",
+            "importance": "very_high"
+        },
+        {
+            "id": "battle-song-gok-spur",
+            "year": 1951,
+            "title": "نبرد سونگ‌گوک اسپور در جنگ کره",
+            "title_en": "Battle of the Song-gok Spur",
+            "category": "military_history",
+            "region": "world",
+            "description": "یک جوخه از هنگ سلطنتی کانادا در جنگ کره از منطقه‌ای حیاتی در برابر یک گردان کامل نیروهای چینی دفاع کرد؛ درگیری تا ساعات بامداد روز بعد ادامه یافت.",
+            "importance": "high"
+        },
+        {
+            "id": "khrushchev-meets-communist-leaders",
+            "year": 1956,
+            "title": "نیکیتا خروشچف با رهبران کشورهای کمونیست درباره مجارستان دیدار کرد",
+            "title_en": "Khrushchev meets Communist leaders over Hungary",
+            "category": "political_history",
+            "region": "world",
+            "description": "در جریان انقلاب مجارستان، خروشچف با رهبران دیگر کشورهای کمونیست دیدار کرد و به توصیه تیتو، یانوش کادار را به عنوان رهبر بعدی مجارستان برگزید.",
+            "importance": "very_high"
+        },
+        {
+            "id": "israel-occupies-gaza",
+            "year": 1956,
+            "title": "اشغال نوار غزه توسط اسرائیل در بحران سوئز",
+            "title_en": "Israel occupies the Gaza Strip",
+            "category": "political_history",
+            "region": "world",
+            "description": "در جریان بحران سوئز، اسرائیل نوار غزه را اشغال کرد.",
+            "importance": "very_high"
+        },
+        {
+            "id": "charles-van-doren-admits",
+            "year": 1959,
+            "title": "اعتراف چارلز ون دورن به تقلب در برنامه تلویزیونی",
+            "title_en": "Charles Van Doren admits to quiz show fraud",
+            "category": "media_history",
+            "region": "world",
+            "description": "چارلز ون دورن، شرکت‌کننده برنامه مسابقه‌ای «بیست‌ویک»، در کمیته کنگره اعتراف کرد که پیش از پخش، پرسش‌ها و پاسخ‌ها به او داده شده بود.",
+            "importance": "high"
+        },
+        {
+            "id": "m1-motorway-opens",
+            "year": 1959,
+            "title": "افتتاح نخستین بخش آزادراه M1 بریتانیا",
+            "title_en": "First section of M1 motorway opens",
+            "category": "engineering_history",
+            "region": "world",
+            "description": "نخستین بخش آزادراه M1، نخستین آزادراه بین‌شهری بریتانیا، میان تقاطع‌های ۵ تا ۱۸ به همراه آزادراه‌های M10 و M45 افتتاح شد.",
+            "importance": "medium"
+        },
+        {
+            "id": "penguin-books-trial",
+            "year": 1960,
+            "title": "تبرئه پنگوئن بوکس در پرونده «عاشق لیدی چترلی»",
+            "title_en": "R v Penguin Books Ltd (Lady Chatterley's Lover)",
+            "category": "cultural_history",
+            "region": "world",
+            "description": "انتشارات پنگوئن بوکس در دادگاه پرونده «عاشق لیدی چترلی» از اتهام نشر محتوای مستهجن تبرئه شد.",
+            "importance": "high"
+        },
+        {
+            "id": "ngo-dinh-diem-assassinated",
+            "year": 1963,
+            "title": "ترور نگو دین دیم، رئیس‌جمهور ویتنام جنوبی",
+            "title_en": "Assassination of Ngô Đình Diệm",
+            "category": "political_history",
+            "region": "world",
+            "description": "نگو دین دیم، رئیس‌جمهور ویتنام جنوبی، پس از یک کودتای نظامی به قتل رسید.",
+            "importance": "very_high"
+        },
+        {
+            "id": "king-saud-deposed",
+            "year": 1964,
+            "title": "برکناری ملک سعود پادشاه عربستان در کودتای خانوادگی",
+            "title_en": "King Saud of Saudi Arabia deposed",
+            "category": "political_history",
+            "region": "world",
+            "description": "ملک سعود، پادشاه عربستان سعودی، در یک کودتای خانوادگی برکنار و برادر ناتنی‌اش فیصل جانشین او شد.",
+            "importance": "very_high"
+        },
+        {
+            "id": "norman-morrison-self-immolation",
+            "year": 1965,
+            "title": "خودسوزی نورمن موریسون در اعتراض به جنگ ویتنام",
+            "title_en": "Norman Morrison sets himself on fire",
+            "category": "social_history",
+            "region": "world",
+            "description": "نورمن موریسون، ۳۱ ساله و از فرقه کوئیکرها، در اعتراض به استفاده از ناپالم در جنگ ویتنام، در برابر ورودی پنتاگون خود را به آتش کشید.",
+            "importance": "high"
+        },
+        {
+            "id": "cuban-adjustment-act",
+            "year": 1966,
+            "title": "لازم‌الاجرا شدن قانون تعدیل کوبایی",
+            "title_en": "Cuban Adjustment Act comes into force",
+            "category": "political_history",
+            "region": "world",
+            "description": "قانون تعدیل کوبایی لازم‌الاجرا شد و به ۱۲۳ هزار کوبایی امکان درخواست اقامت دائم در ایالات متحده را داد.",
+            "importance": "medium"
+        },
+        {
+            "id": "wise-men-vietnam",
+            "year": 1967,
+            "title": "نتیجه‌گیری جانسون و «مردان خردمند» درباره گزارش‌های خوش‌بینانه از ویتنام",
+            "title_en": "Johnson and 'The Wise Men' conclude on Vietnam reports",
+            "category": "political_history",
+            "region": "world",
+            "description": "لیندون جانسون و گروهی از مشاوران ارشد معروف به «مردان خردمند» به این نتیجه رسیدند که باید گزارش‌های خوش‌بینانه‌تری از پیشرفت جنگ به مردم آمریکا ارائه شود.",
+            "importance": "high"
+        },
+        {
+            "id": "aeroflot-flight-19-hijack",
+            "year": 1973,
+            "title": "ربایش پرواز ۱۹ آئروفلوت و یورش به هواپیما",
+            "title_en": "Aeroflot Flight 19 hijacked",
+            "category": "disaster",
+            "region": "world",
+            "description": "پرواز ۱۹ آئروفلوت ربوده و به فرودگاه بین‌المللی ونوکووو منحرف شد؛ در آنجا مقامات به هواپیما یورش بردند.",
+            "importance": "medium"
+        },
+        {
+            "id": "channel-4-launch",
+            "year": 1982,
+            "title": "آغاز پخش شبکه چهار بریتانیا",
+            "title_en": "Channel 4 starts broadcasting",
+            "category": "media_history",
+            "region": "world",
+            "description": "شبکه چهار، کانال تلویزیونی عمومی و رایگان بریتانیا که از طریق فعالیت‌های تجاری تأمین مالی می‌شود، پخش خود را آغاز کرد.",
+            "importance": "medium"
+        },
+        {
+            "id": "mlk-day-signed",
+            "year": 1983,
+            "title": "امضای قانون ایجاد روز مارتین لوتر کینگ جونیور",
+            "title_en": "Reagan signs bill creating Martin Luther King Jr. Day",
+            "category": "political_history",
+            "region": "world",
+            "description": "رونالد ریگان قانونی را امضا کرد که به ایجاد تعطیلات ملی «روز مارتین لوتر کینگ جونیور» انجامید.",
+            "importance": "very_high"
+        },
+        {
+            "id": "velma-barfield-executed",
+            "year": 1984,
+            "title": "اعدام ولما بارفیلد؛ نخستین زن اعدامی در آمریکا از ۱۹۶۲",
+            "title_en": "Velma Barfield becomes first woman executed in US since 1962",
+            "category": "legal_history",
+            "region": "world",
+            "description": "ولما بارفیلد نخستین زنی شد که از سال ۱۹۶۲ در ایالات متحده اعدام می‌شد.",
+            "importance": "high"
+        },
+        {
+            "id": "david-jacobsen-released",
+            "year": 1986,
+            "title": "آزادی دیوید جاکوبسن، گروگان آمریکایی در بیروت",
+            "title_en": "US hostage David Jacobsen released in Beirut",
+            "category": "political_history",
+            "region": "world",
+            "description": "دیوید جاکوبسن، گروگان آمریکایی در بحران گروگان‌گیری لبنان، پس از ۱۷ ماه اسارت در بیروت آزاد شد.",
+            "importance": "high"
+        },
+        {
+            "id": "morris-worm",
+            "year": 1988,
+            "title": "انتشار کرم موریس؛ نخستین کرم رایانه‌ای اینترنتی با پوشش رسانه‌ای گسترده",
+            "title_en": "Morris worm launched",
+            "category": "science_history",
+            "region": "world",
+            "description": "کرم موریس، نخستین کرم رایانه‌ای توزیع‌شده در اینترنت که توجه گسترده رسانه‌های جریان اصلی را جلب کرد، از ام‌آی‌تی منتشر شد.",
+            "importance": "very_high"
+        },
+        {
+            "id": "lot-flight-703-crash",
+            "year": 1988,
+            "title": "سقوط پرواز ۷۰۳ لوت لهستان",
+            "title_en": "LOT Polish Airlines Flight 703 crashes",
+            "category": "disaster",
+            "region": "world",
+            "description": "پرواز ۷۰۳ لوت لهستان در بیاووبرژگی، استان پودکارپاتسکیه، سقوط کرد؛ یک نفر کشته و چند نفر زخمی شدند.",
+            "importance": "medium"
+        },
+        {
+            "id": "bskyb-merger",
+            "year": 1990,
+            "title": "ادغام بی‌اس‌بی و اسکای تله‌ویژن و تشکیل BSkyB",
+            "title_en": "British Satellite Broadcasting and Sky Television merge",
+            "category": "media_history",
+            "region": "world",
+            "description": "شرکت‌های بریتیش ستلایت برادکستینگ و اسکای تله‌ویژن پس از زیان‌های سنگین با هم ادغام شدند و BSkyB را تشکیل دادند.",
+            "importance": "medium"
+        },
+        {
+            "id": "tropical-storm-linda",
+            "year": 1997,
+            "title": "برخورد طوفان استوایی لیندا به دلتای مکونگ",
+            "title_en": "Tropical Storm Linda makes landfall in Vietnam",
+            "category": "natural_disaster",
+            "region": "world",
+            "description": "طوفان استوایی لیندا در دلتای مکونگ ویتنام به خشکی رسید و بیش از ۳٬۰۰۰ کشته برجای گذاشت.",
+            "importance": "high"
+        },
+        {
+            "id": "honolulu-shootings",
+            "year": 1999,
+            "title": "تیراندازی هونولولو؛ بدترین قتل جمعی در تاریخ هاوایی",
+            "title_en": "Honolulu shootings",
+            "category": "disaster",
+            "region": "world",
+            "description": "یک مهاجم مسلح در محل کار خود در هونولولو به هشت نفر شلیک کرد و هفت نفر را کشت.",
+            "importance": "high"
+        },
+        {
+            "id": "expedition-1-iss",
+            "year": 2000,
+            "title": "ورود اکسپدیشن ۱ به ایستگاه فضایی بین‌المللی و آغاز حضور پیوسته انسانی در فضا",
+            "title_en": "Expedition 1 arrives at the ISS",
+            "category": "science_history",
+            "region": "world",
+            "description": "اکسپدیشن ۱ برای نخستین اقامت طولانی‌مدت در ایستگاه فضایی بین‌المللی به آن رسید؛ از آن روز تاکنون حضور پیوسته انسانی در ایستگاه قطع نشده است.",
+            "importance": "very_high"
+        },
+        {
+            "id": "lewis-hamilton-first-title",
+            "year": 2008,
+            "title": "قهرمانی لوئیس همیلتون در فرمول یک با اختلاف یک امتیاز",
+            "title_en": "Lewis Hamilton secures maiden F1 title",
+            "category": "sports_history",
+            "region": "world",
+            "description": "لوئیس همیلتون در گراند پری برزیل با سبقت از تیمو گلاک در آخرین دور، با یک امتیاز اختلاف بر فیلیپه ماسا، نخستین عنوان قهرمانی فرمول یک خود را به دست آورد.",
+            "importance": "high"
+        },
+        {
+            "id": "chicago-cubs-world-series",
+            "year": 2016,
+            "title": "قهرمانی شیکاگو کابز در ورلد سریز پس از ۱۰۸ سال",
+            "title_en": "Chicago Cubs win World Series",
+            "category": "sports_history",
+            "region": "world",
+            "description": "شیکاگو کابز در ورلد سریز کلیولند ایندیانز را شکست داد و به طولانی‌ترین دوره قهرمانی‌نداشتن در لیگ برتر بیسبال (۱۰۸ سال) پایان داد.",
+            "importance": "high"
+        },
+        {
+            "id": "vienna-terror-attack",
+            "year": 2020,
+            "title": "حمله تروریستی در وین",
+            "title_en": "Vienna terror attack",
+            "category": "disaster",
+            "region": "world",
+            "description": "یک همدل داعش در منطقه اینره‌اشتاد وین به قتل چهار نفر و زخمی‌کردن ۲۳ نفر پرداخت و سپس توسط پلیس کشته شد.",
+            "importance": "high"
+        },
+        {
+            "id": "tigray-peace-agreement",
+            "year": 2022,
+            "title": "امضای توافق صلح میان دولت اتیوپی و جبهه آزادی‌بخش خلق تیگرای",
+            "title_en": "Ethiopia–Tigray peace agreement",
+            "category": "political_history",
+            "region": "world",
+            "description": "توافق صلح میان دولت اتیوپی و جبهه آزادی‌بخش خلق تیگرای امضا شد و به جنگ تیگرای پایان داد.",
+            "importance": "very_high"
+        }
+    ],
+    "births": [
+        {
+            "id": "daniel-boone-birth",
+            "year": 1734,
+            "title": "زادروز دانیل بون، شکارچی و کاوشگر آمریکایی",
+            "title_en": "Birth of Daniel Boone",
+            "category": "birth",
+            "region": "world",
+            "description": "دانیل بون، شکارچی و کاوشگر آمریکایی و از پیشگامان شهرک‌سازی در کنتاکی، متولد شد. (درگذشت ۱۸۲۰)",
+            "importance": "high"
+        },
+        {
+            "id": "marie-antoinette-birth",
+            "year": 1755,
+            "title": "زادروز ماری آنتوانت، ملکه فرانسه",
+            "title_en": "Birth of Marie Antoinette",
+            "category": "birth",
+            "region": "world",
+            "description": "ماری آنتوانت، ملکه فرانسه و همسر لویی شانزدهم، در وین متولد شد. (درگذشت ۱۷۹۳)",
+            "importance": "very_high"
+        },
+        {
+            "id": "james-k-polk-birth",
+            "year": 1795,
+            "title": "زادروز جیمز ناکس پولک، یازدهمین رئیس‌جمهور آمریکا",
+            "title_en": "Birth of James K. Polk",
+            "category": "birth",
+            "region": "world",
+            "description": "جیمز ناکس پولک، حقوقدان و سیاستمدار آمریکایی و یازدهمین رئیس‌جمهور ایالات متحده، متولد شد. (درگذشت ۱۸۴۹)",
+            "importance": "high"
+        },
+        {
+            "id": "george-boole-birth",
+            "year": 1815,
+            "title": "زادروز جورج بول، ریاضی‌دان و فیلسوف انگلیسی",
+            "title_en": "Birth of George Boole",
+            "category": "birth",
+            "region": "world",
+            "description": "جورج بول، ریاضی‌دان و فیلسوف انگلیسی و بنیان‌گذار جبر بولی که پایه منطق دیجیتال است، متولد شد. (درگذشت ۱۸۶۴)",
+            "importance": "very_high"
+        },
+        {
+            "id": "mehmed-v-birth",
+            "year": 1844,
+            "title": "زادروز محمد پنجم، سلطان عثمانی",
+            "title_en": "Birth of Mehmed V",
+            "category": "birth",
+            "region": "world",
+            "description": "محمد پنجم، سلطان امپراتوری عثمانی، متولد شد. (درگذشت ۱۹۱۸)",
+            "importance": "high"
+        },
+        {
+            "id": "warren-g-harding-birth",
+            "year": 1865,
+            "title": "زادروز وارن جی. هاردینگ، بیست‌ونهمین رئیس‌جمهور آمریکا",
+            "title_en": "Birth of Warren G. Harding",
+            "category": "birth",
+            "region": "world",
+            "description": "وارن جی. هاردینگ، روزنامه‌نگار و سیاستمدار آمریکایی و بیست‌ونهمین رئیس‌جمهور ایالات متحده، متولد شد. (درگذشت ۱۹۲۳)",
+            "importance": "high"
+        },
+        {
+            "id": "aga-khan-iii-birth",
+            "year": 1877,
+            "title": "زادروز آقاخان سوم، چهل‌وهشتمین امام شیعیان اسماعیلی",
+            "title_en": "Birth of Aga Khan III",
+            "category": "birth",
+            "region": "world",
+            "description": "آقاخان سوم، چهل‌وهشتمین امام شیعیان اسماعیلی، متولد شد. (درگذشت ۱۹۵۷)",
+            "importance": "high"
+        },
+        {
+            "id": "harlow-shapley-birth",
+            "year": 1885,
+            "title": "زادروز هارلو شپلی، ستاره‌شناس آمریکایی",
+            "title_en": "Birth of Harlow Shapley",
+            "category": "birth",
+            "region": "world",
+            "description": "هارلو شپلی، ستاره‌شناس و استاد دانشگاه آمریکایی، متولد شد. (درگذشت ۱۹۷۲)",
+            "importance": "high"
+        },
+        {
+            "id": "luchino-visconti-birth",
+            "year": 1906,
+            "title": "زادروز لوکینو ویسکونتی، کارگردان ایتالیایی",
+            "title_en": "Birth of Luchino Visconti",
+            "category": "birth",
+            "region": "world",
+            "description": "لوکینو ویسکونتی، کارگردان و فیلم‌نامه‌نویس ایتالیایی و از بنیان‌گذاران نئورئالیسم سینمای ایتالیا، متولد شد. (درگذشت ۱۹۷۶)",
+            "importance": "high"
+        },
+        {
+            "id": "odysseas-elytis-birth",
+            "year": 1911,
+            "title": "زادروز اودیسه الیتیس، شاعر یونانی و برنده نوبل ادبیات",
+            "title_en": "Birth of Odysseas Elytis",
+            "category": "birth",
+            "region": "world",
+            "description": "اودیسه الیتیس، شاعر و منتقد یونانی و برنده جایزه نوبل ادبیات ۱۹۷۹، متولد شد. (درگذشت ۱۹۹۶)",
+            "importance": "high"
+        },
+        {
+            "id": "burt-lancaster-birth",
+            "year": 1913,
+            "title": "زادروز برت لنکستر، بازیگر آمریکایی",
+            "title_en": "Birth of Burt Lancaster",
+            "category": "birth",
+            "region": "world",
+            "description": "برت لنکستر، بازیگر و تهیه‌کننده آمریکایی و برنده جایزه اسکار، متولد شد. (درگذشت ۱۹۹۴)",
+            "importance": "high"
+        },
+        {
+            "id": "steve-ditko-birth",
+            "year": 1927,
+            "title": "زادروز استیو دیتکو، نویسنده و تصویرگر کمیک آمریکایی",
+            "title_en": "Birth of Steve Ditko",
+            "category": "birth",
+            "region": "world",
+            "description": "استیو دیتکو، نویسنده و تصویرگر کمیک آمریکایی و خالق مشترک شخصیت‌های اسپایدرمن و دکتر استرنج، متولد شد. (درگذشت ۲۰۱۸)",
+            "importance": "very_high"
+        },
+        {
+            "id": "amar-bose-birth",
+            "year": 1929,
+            "title": "زادروز عمار بوز، مهندس و کارآفرین آمریکایی",
+            "title_en": "Birth of Amar Bose",
+            "category": "birth",
+            "region": "world",
+            "description": "عمار بوز، مهندس و کارآفرین آمریکایی و بنیان‌گذار شرکت بوز، متولد شد. (درگذشت ۲۰۱۳)",
+            "importance": "high"
+        },
+        {
+            "id": "ken-rosewall-birth",
+            "year": 1934,
+            "title": "زادروز کن روزوال، تنیسور استرالیایی",
+            "title_en": "Birth of Ken Rosewall",
+            "category": "birth",
+            "region": "world",
+            "description": "کن روزوال، تنیسور استرالیایی و از برندگان متعدد گرند اسلم، متولد شد.",
+            "importance": "medium"
+        },
+        {
+            "id": "richard-serra-birth",
+            "year": 1939,
+            "title": "زادروز ریچارد سرا، مجسمه‌ساز آمریکایی",
+            "title_en": "Birth of Richard Serra",
+            "category": "birth",
+            "region": "world",
+            "description": "ریچارد سرا، مجسمه‌ساز و استاد دانشگاه آمریکایی و از چهره‌های شاخص هنر مینیمال، متولد شد. (درگذشت ۲۰۲۴)",
+            "importance": "high"
+        },
+        {
+            "id": "shere-hite-birth",
+            "year": 1942,
+            "title": "زادروز شر هایت، سکسولوژیست و نویسنده آلمانی",
+            "title_en": "Birth of Shere Hite",
+            "category": "birth",
+            "region": "world",
+            "description": "شر هایت، سکسولوژیست، نویسنده و آموزگار آلمانی، متولد شد. (درگذشت ۲۰۲۰)",
+            "importance": "medium"
+        },
+        {
+            "id": "keith-emerson-birth",
+            "year": 1944,
+            "title": "زادروز کیث امرسون، نوازنده کیبورد و آهنگساز انگلیسی",
+            "title_en": "Birth of Keith Emerson",
+            "category": "birth",
+            "region": "world",
+            "description": "کیث امرسون، نوازنده کیبورد، آهنگساز و بنیان‌گذار گروه امرسون، لیک اند پالمر، متولد شد. (درگذشت ۲۰۱۶)",
+            "importance": "medium"
+        },
+        {
+            "id": "k-d-lang-birth",
+            "year": 1961,
+            "title": "زادروز کی.دی. لنگ، خواننده و ترانه‌سرای کانادایی",
+            "title_en": "Birth of k.d. lang",
+            "category": "birth",
+            "region": "world",
+            "description": "کی.دی. لنگ، خواننده، ترانه‌سرا، تهیه‌کننده و بازیگر کانادایی، متولد شد.",
+            "importance": "medium"
+        },
+        {
+            "id": "shah-rukh-khan-birth",
+            "year": 1965,
+            "title": "زادروز شاهرخ خان، بازیگر و تهیه‌کننده هندی",
+            "title_en": "Birth of Shah Rukh Khan",
+            "category": "birth",
+            "region": "world",
+            "description": "شاهرخ خان، بازیگر، تهیه‌کننده و مجری تلویزیونی هندی و از ستاره‌های بالیوود، متولد شد.",
+            "importance": "high"
+        },
+        {
+            "id": "david-schwimmer-birth",
+            "year": 1966,
+            "title": "زادروز دیوید شویمر، بازیگر آمریکایی",
+            "title_en": "Birth of David Schwimmer",
+            "category": "birth",
+            "region": "world",
+            "description": "دیوید شویمر، بازیگر آمریکایی و بازیگر نقش راس در سریال فرندز، متولد شد.",
+            "importance": "medium"
+        },
+        {
+            "id": "nelly-birth",
+            "year": 1974,
+            "title": "زادروز نلی، رپر آمریکایی",
+            "title_en": "Birth of Nelly",
+            "category": "birth",
+            "region": "world",
+            "description": "نلی، رپر آمریکایی و برنده جایزه گرمی، متولد شد.",
+            "importance": "medium"
+        }
+    ],
+    "deaths": [
+        {
+            "id": "matilda-of-flanders-death",
+            "year": 1083,
+            "title": "درگذشت ماتیلدا فلاندر، ملکه همسر انگلستان",
+            "title_en": "Death of Matilda of Flanders",
+            "category": "death",
+            "region": "world",
+            "description": "ماتیلدا فلاندر، ملکه همسر ویلیام فاتح، درگذشت. (متولد ۱۰۳۱)",
+            "importance": "medium"
+        },
+        {
+            "id": "saint-malachy-death",
+            "year": 1148,
+            "title": "درگذشت سنت مالاکی",
+            "title_en": "Death of Saint Malachy",
+            "category": "death",
+            "region": "world",
+            "description": "سنت مالاکی، اسقف و قدیس ایرلندی، درگذشت. (متولد ۱۰۹۴)",
+            "importance": "medium"
+        },
+        {
+            "id": "bettisia-gozzadini-death",
+            "year": 1261,
+            "title": "درگذشت بتتیزیا گوتزادینی، حقوقدان ایتالیایی",
+            "title_en": "Death of Bettisia Gozzadini",
+            "category": "death",
+            "region": "world",
+            "description": "بتتیزیا گوتزادینی، حقوقدان ایتالیایی و از نخستین زنان استاد دانشگاه، درگذشت. (متولد ۱۲۰۹)",
+            "importance": "medium"
+        },
+        {
+            "id": "george-bernard-shaw-death",
+            "year": 1950,
+            "title": "درگذشت جرج برنارد شاو، نمایشنامه‌نویس ایرلندی و برنده نوبل ادبیات",
+            "title_en": "Death of George Bernard Shaw",
+            "category": "death",
+            "region": "world",
+            "description": "جرج برنارد شاو، نویسنده، نمایشنامه‌نویس و منتقد ایرلندی و برنده جایزه نوبل ادبیات ۱۹۲۵، درگذشت. (متولد ۱۸۵۶)",
+            "importance": "very_high"
+        },
+        {
+            "id": "james-thurber-death",
+            "year": 1961,
+            "title": "درگذشت جیمز تربر، طنزنویس و کاریکاتوریست آمریکایی",
+            "title_en": "Death of James Thurber",
+            "category": "death",
+            "region": "world",
+            "description": "جیمز تربر، طنزنویس و کاریکاتوریست آمریکایی، درگذشت. (متولد ۱۸۹۴)",
+            "importance": "high"
+        },
+        {
+            "id": "ngo-dinh-diem-death",
+            "year": 1963,
+            "title": "درگذشت نگو دین دیم، نخستین رئیس‌جمهور ویتنام جنوبی",
+            "title_en": "Death of Ngô Đình Diệm",
+            "category": "death",
+            "region": "world",
+            "description": "نگو دین دیم، سیاستمدار ویتنامی و نخستین رئیس‌جمهور ویتنام جنوبی، در جریان کودتای ۱۹۶۳ کشته شد. (متولد ۱۹۰۱)",
+            "importance": "very_high"
+        },
+        {
+            "id": "peter-debye-death",
+            "year": 1966,
+            "title": "درگذشت پیتر دبای، فیزیک‌دان و شیمی‌دان هلندی-آمریکایی و برنده نوبل",
+            "title_en": "Death of Peter Debye",
+            "category": "death",
+            "region": "world",
+            "description": "پیتر دبای، فیزیک‌دان و شیمی‌دان هلندی-آمریکایی و برنده جایزه نوبل شیمی ۱۹۳۶، درگذشت. (متولد ۱۸۸۴)",
+            "importance": "very_high"
+        },
+        {
+            "id": "mississippi-john-hurt-death",
+            "year": 1966,
+            "title": "درگذشت میسیسیپی جان هرت، خواننده بلوز آمریکایی",
+            "title_en": "Death of Mississippi John Hurt",
+            "category": "death",
+            "region": "world",
+            "description": "میسیسیپی جان هرت، خواننده، ترانه‌سرا و گیتاریست بلوز آمریکایی، درگذشت. (متولد ۱۸۹۲)",
+            "importance": "medium"
+        },
+        {
+            "id": "pier-paolo-pasolini-death",
+            "year": 1975,
+            "title": "درگذشت پیر پائولو پازولینی، کارگردان و نویسنده ایتالیایی",
+            "title_en": "Death of Pier Paolo Pasolini",
+            "category": "death",
+            "region": "world",
+            "description": "پیر پائولو پازولینی، کارگردان، شاعر و نویسنده ایتالیایی، درگذشت. (متولد ۱۹۲۲)",
+            "importance": "very_high"
+        },
+        {
+            "id": "hal-roach-death",
+            "year": 1992,
+            "title": "درگذشت هال روچ، تهیه‌کننده و کارگردان آمریکایی",
+            "title_en": "Death of Hal Roach",
+            "category": "death",
+            "region": "world",
+            "description": "هال روچ، تهیه‌کننده، کارگردان و بازیگر آمریکایی و تهیه‌کننده مجموعه «دار و دسته ما»، درگذشت. (متولد ۱۸۹۲)",
+            "importance": "high"
+        },
+        {
+            "id": "eva-cassidy-death",
+            "year": 1996,
+            "title": "درگذشت اوا کسیدی، خواننده آمریکایی",
+            "title_en": "Death of Eva Cassidy",
+            "category": "death",
+            "region": "world",
+            "description": "اوا کسیدی، خواننده آمریکایی، درگذشت. (متولد ۱۹۶۳)",
+            "importance": "medium"
+        },
+        {
+            "id": "zayed-bin-sultan-death",
+            "year": 2004,
+            "title": "درگذشت زاید بن سلطان آل نهیان، بنیان‌گذار امارات متحده عربی",
+            "title_en": "Death of Zayed bin Sultan Al Nahyan",
+            "category": "death",
+            "region": "world",
+            "description": "شیخ زاید بن سلطان آل نهیان، نخستین رئیس‌جمهور و بنیان‌گذار امارات متحده عربی، درگذشت. (متولد ۱۹۱۸)",
+            "importance": "very_high"
+        },
+        {
+            "id": "theo-van-gogh-death",
+            "year": 2004,
+            "title": "درگذشت تئو ون گوگ، کارگردان هلندی",
+            "title_en": "Death of Theo van Gogh",
+            "category": "death",
+            "region": "world",
+            "description": "تئو ون گوگ، کارگردان، تهیه‌کننده و بازیگر هلندی، به قتل رسید. (متولد ۱۹۵۷)",
+            "importance": "high"
+        },
+        {
+            "id": "igor-moiseyev-death",
+            "year": 2007,
+            "title": "درگذشت ایگور مویسیف، رقصنده و طراح رقص روسی",
+            "title_en": "Death of Igor Moiseyev",
+            "category": "death",
+            "region": "world",
+            "description": "ایگور مویسیف، رقصنده و طراح رقص روسی و بنیان‌گذار گروه رقص فولکلور مویسیف، درگذشت. (متولد ۱۹۰۶)",
+            "importance": "high"
+        },
+        {
+            "id": "han-suyin-death",
+            "year": 2012,
+            "title": "درگذشت هان سوئین، نویسنده چینی-سوئیسی",
+            "title_en": "Death of Han Suyin",
+            "category": "death",
+            "region": "world",
+            "description": "هان سوئین، پزشک و نویسنده چینی-سوئیسی، درگذشت. (متولد ۱۹۱۶)",
+            "importance": "medium"
+        },
+        {
+            "id": "walt-bellamy-death",
+            "year": 2013,
+            "title": "درگذشت والت بلامی، بازیکن بسکتبال آمریکایی",
+            "title_en": "Death of Walt Bellamy",
+            "category": "death",
+            "region": "world",
+            "description": "والت بلامی، بازیکن بسکتبال آمریکایی و عضو تالار مشاهیر، درگذشت. (متولد ۱۹۳۹)",
+            "importance": "medium"
+        },
+        {
+            "id": "ghislaine-dupont-death",
+            "year": 2013,
+            "title": "درگذشت ژیزلن دوپون، روزنامه‌نگار فرانسوی",
+            "title_en": "Death of Ghislaine Dupont",
+            "category": "death",
+            "region": "world",
+            "description": "ژیزلن دوپون، روزنامه‌نگار فرانسوی، در مالی ربوده و کشته شد. (متولد ۱۹۵۶)",
+            "importance": "high"
+        },
+        {
+            "id": "acker-bilk-death",
+            "year": 2014,
+            "title": "درگذشت آکر بیلک، نوازنده کلارینت و خواننده انگلیسی",
+            "title_en": "Death of Acker Bilk",
+            "category": "death",
+            "region": "world",
+            "description": "آکر بیلک، نوازنده کلارینت و خواننده جاز انگلیسی، درگذشت. (متولد ۱۹۲۹)",
+            "importance": "medium"
+        },
+        {
+            "id": "raymond-chow-death",
+            "year": 2018,
+            "title": "درگذشت ریموند چو، تهیه‌کننده فیلم هنگ‌کنگی",
+            "title_en": "Death of Raymond Chow",
+            "category": "death",
+            "region": "world",
+            "description": "ریموند چو، تهیه‌کننده فیلم هنگ‌کنگی و کاشف بروس لی، درگذشت. (متولد ۱۹۲۷)",
+            "importance": "high"
+        },
+        {
+            "id": "takeoff-death",
+            "year": 2022,
+            "title": "درگذشت تیک‌آف، عضو گروه هیپ‌هاپ میگوس",
+            "title_en": "Death of Takeoff",
+            "category": "death",
+            "region": "world",
+            "description": "تیک‌آف، عضو گروه هیپ‌هاپ آمریکایی میگوس، درگذشت. (متولد ۱۹۹۴)",
+            "importance": "medium"
+        }
+    ],
+    "observances": [
+        {
+            "id": "all-souls-day",
+            "title": "روز همه ارواح",
+            "title_en": "All Souls' Day",
+            "category": "religious_observance",
+            "region": "world",
+            "description": "روز همه ارواح در سنت کاتولیک به یادبود درگذشتگان و دعا برای آنان اختصاص دارد و معمولاً در ۲ نوامبر برگزار می‌شود.",
+            "importance": "high",
+            "official_status": "مناسبت مذهبی؛ در برخی کشورها تعطیل رسمی."
+        },
+        {
+            "id": "day-of-the-dead",
+            "title": "روز مردگان (روز بزرگسالان)",
+            "title_en": "Día de los Muertos (Day of the Dead)",
+            "category": "cultural_observance",
+            "region": "world",
+            "description": "دومین روز جشن روز مردگان در مکزیک که در بسیاری از سنت‌ها به یادبود بزرگسالان درگذشته اختصاص دارد.",
+            "importance": "high",
+            "official_status": "مناسبت فرهنگی."
+        },
+        {
+            "id": "international-day-end-impunity-journalists",
+            "title": "روز جهانی پایان‌دادن به مصونیت از مجازات جرائم علیه روزنامه‌نگاران",
+            "title_en": "International Day to End Impunity for Crimes against Journalists",
+            "category": "international_observance",
+            "region": "world",
+            "description": "روز بین‌المللی سازمان ملل متحد برای آگاهی‌بخشی درباره خشونت علیه روزنامه‌نگاران و ضرورت پایان‌دادن به مصونیت عاملان آن.",
+            "importance": "high",
+            "official_status": "روز بین‌المللی رسمی سازمان ملل متحد."
+        },
+        {
+            "id": "coronation-fifth-druk-gyalpo-bhutan",
+            "title": "سالگرد تاج‌گذاری پنجمین دروک گیالپو (بوتان)",
+            "title_en": "Coronation of the fifth Druk Gyalpo (Bhutan)",
+            "category": "national_observance",
+            "region": "world",
+            "description": "سالگرد تاج‌گذاری پنجمین پادشاه بوتان.",
+            "importance": "medium",
+            "official_status": "مناسبت ملی در بوتان."
+        },
+        {
+            "id": "commemoration-of-the-dead",
+            "title": "یادبود درگذشتگان (کشورهای مختلف)",
+            "title_en": "Commemoration of the Dead",
+            "category": "cultural_observance",
+            "region": "world",
+            "description": "در بسیاری از کشورهای کاتولیک، ۲ نوامبر روز یادبود درگذشتگان است و خانواده‌ها بر مزار عزیزان حاضر می‌شوند.",
+            "importance": "medium",
+            "official_status": "مناسبت فرهنگی و مذهبی."
+        }
+    ]
+}
