@@ -18,6 +18,7 @@ export type HistoryItem = {
 export type HistoryMetadata = {
   title?: string;
   source?: string;
+  date?: string;
   description?: string;
   note?: string;
   editorial_notes?: string[];
@@ -64,6 +65,21 @@ export const MONTH_FA: Record<string, string> = {
   Dey: "دی",
   Bahman: "بهمن",
   Esfand: "اسفند",
+};
+
+export const GREGORIAN_MONTH_FA: Record<number, string> = {
+  1: "ژانویه",
+  2: "فوریه",
+  3: "مارس",
+  4: "آوریل",
+  5: "مه",
+  6: "ژوئن",
+  7: "ژوئیه",
+  8: "اوت",
+  9: "سپتامبر",
+  10: "اکتبر",
+  11: "نوامبر",
+  12: "دسامبر",
 };
 
 export const IMPORTANCE_FA: Record<string, string> = {

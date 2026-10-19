@@ -1,4 +1,5 @@
 import {
+  GREGORIAN_MONTH_FA,
   MONTH_FA,
   WEEKDAY_FA,
   toPersianDigits,
@@ -11,6 +12,10 @@ export default function TimelineHero({ data }: { data: HistoryData }) {
   const weekday = WEEKDAY_FA[data.weekday ?? ""] ?? data.weekday ?? "";
   const solarMonthKey = String(solarDate.month ?? "");
   const solarMonth = MONTH_FA[solarMonthKey] ?? solarMonthKey;
+  const gregorianMonth =
+    typeof gregorianDate.month === "number"
+      ? GREGORIAN_MONTH_FA[gregorianDate.month] ?? ""
+      : "";
 
   return (
     <header className="hero">
@@ -19,7 +24,7 @@ export default function TimelineHero({ data }: { data: HistoryData }) {
         تقویم تاریخی | یک روز
       </div>
       <h1>
-        {toPersianDigits(gregorianDate.day)} نوامبر{" "}
+        {toPersianDigits(gregorianDate.day)} {gregorianMonth}{" "}
         {toPersianDigits(gregorianDate.year)}
       </h1>
       <div className="hero-dates">
@@ -30,15 +35,17 @@ export default function TimelineHero({ data }: { data: HistoryData }) {
           </span>
         )}
         <span className="date-chip">
-          {toPersianDigits(gregorianDate.day)} نوامبر{" "}
+          {toPersianDigits(gregorianDate.day)} {gregorianMonth}{" "}
           {toPersianDigits(gregorianDate.year)}
           <small>میلادی</small>
         </span>
-        <span className="date-chip">
-          {toPersianDigits(solarDate.day)} {solarMonth}{" "}
-          {toPersianDigits(solarDate.year)}
-          <small>شمسی</small>
-        </span>
+        {solarDate.day && solarMonth && solarDate.year && (
+          <span className="date-chip">
+            {toPersianDigits(solarDate.day)} {solarMonth}{" "}
+            {toPersianDigits(solarDate.year)}
+            <small>شمسی</small>
+          </span>
+        )}
       </div>
       <p>
         {data.metadata?.description ??

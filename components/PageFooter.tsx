@@ -1,4 +1,8 @@
-import { toPersianDigits, type HistoryDate } from "../lib/history";
+import {
+  GREGORIAN_MONTH_FA,
+  toPersianDigits,
+  type HistoryDate,
+} from "../lib/history";
 
 export default function PageFooter({
   date,
@@ -7,11 +11,14 @@ export default function PageFooter({
   date?: HistoryDate;
   source?: string;
 }) {
+  const month =
+    typeof date?.month === "number" ? GREGORIAN_MONTH_FA[date.month] : "";
+
   return (
     <footer>
       <div className="line" />
       <p>
-        تاریخ‌نگار — {toPersianDigits(date?.day)} نوامبر{" "}
+        تاریخ‌نگار — {toPersianDigits(date?.day)} {month}{" "}
         {toPersianDigits(date?.year)}
         {source && (
           <>
