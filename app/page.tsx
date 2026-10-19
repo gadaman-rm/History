@@ -2,11 +2,12 @@ import EditorialNotes from "../components/EditorialNotes";
 import HistorySection from "../components/HistorySection";
 import PageFooter from "../components/PageFooter";
 import TimelineHero from "../components/TimelineHero";
-import historyData from "../data/1_nov.json";
+import historyData from "../data/1_nov_2026.json";
 import type { HistoryData } from "../lib/history";
 
 const data = historyData as HistoryData;
 
+// Section details for the different categories of historical data
 const sectionDetails = [
   {
     key: "events",
