@@ -4,7 +4,11 @@ import EditorialNotes from "../../components/EditorialNotes";
 import HistorySection from "../../components/HistorySection";
 import PageFooter from "../../components/PageFooter";
 import TimelineHero from "../../components/TimelineHero";
-import { getDayData, parseDaySlug } from "../../lib/day";
+import {
+  getDayCalendar,
+  getDayData,
+  parseDaySlug,
+} from "../../lib/day";
 import {
   GREGORIAN_MONTH_FA,
   type HistoryData,
@@ -14,6 +18,8 @@ import PendingDayNotice from "../../components/PendingDayNotice";
 type DayPageProps = {
   params: Promise<{ slug: string }>;
 };
+
+export const dynamic = "force-dynamic";
 
 const sectionDetails = [
   {
@@ -66,10 +72,7 @@ export default async function DayPage({ params }: DayPageProps) {
   if (!route) notFound();
 
   const data = await getDayData(route);
-  const weekday = new Date(`${route.isoDate}T00:00:00Z`).toLocaleDateString(
-    "en-US",
-    { weekday: "long", timeZone: "UTC" },
-  );
+  const calendar = getDayCalendar(route);
   const pageData: HistoryData = data ?? {
     metadata: {
       date: route.isoDate,
@@ -80,7 +83,7 @@ export default async function DayPage({ params }: DayPageProps) {
       month: route.month,
       year: route.year,
     },
-    weekday,
+    ...calendar,
   };
 
   return (

@@ -5,13 +5,15 @@ type DayApiContext = {
   params: Promise<{ slug: string }>;
 };
 
+export const dynamic = "force-dynamic";
+
 export async function GET(_request: Request, { params }: DayApiContext) {
   const { slug } = await params;
   const route = parseDaySlug(slug);
 
   if (!route) {
     return NextResponse.json(
-      { error: "Invalid day slug. Use the format d-mmm-yyyy." },
+      { error: "Invalid day slug. Use the format d-mmm." },
       { status: 400 },
     );
   }
